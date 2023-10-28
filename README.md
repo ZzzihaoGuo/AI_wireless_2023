@@ -1,6 +1,6 @@
 # AI_wireless_2023
 
-Competition Plan and MindSpore Code for the 2023 AI+ Wireless Competition on DataFountain.
+Competition Plan and MindSpore Code based on transformer structure for the 2023 AI+ Wireless Competition on DataFountain.
 
 
 
