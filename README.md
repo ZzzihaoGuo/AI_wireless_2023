@@ -6,4 +6,4 @@ Competition Plan and MindSpore Code for the 2023 AI+ Wireless Competition on Dat
 
 
 
-Participants who didn't use MindSpore for training in the semi-finals should feel ashamed.(just kidding, XD)
+At the same time, participants who did not train with MindSpore in the semifinals should be ashamed. (just kidding, XD)
