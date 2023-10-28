@@ -1,9 +1,9 @@
 # AI_wireless_2023
 
-Competition Plan and MindSpore Code based on transformer structure for the 2023 AI+ Wireless Competition on DataFountain.
+Competition Plan and Code based on transformer structure for the 2023 AI+ Wireless Competition on DataFountain.
 
 
 
 
 
-At the same time, participants who did not train with MindSpore in the semifinals should be ashamed. (just kidding, XD)
+Participants who did not train with mindspore in the semifinals should be ashamed. (just kidding, XD)
