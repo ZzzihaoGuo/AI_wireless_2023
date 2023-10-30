@@ -11,4 +11,4 @@ main_preliminary_round.py and ModelDesign_preliminary_round.py are the code for 
 
 
 
-Participants who did not train with mindspore in the semifinals should be ashamed. (just kidding, XD)
+PS：Participants who did not train with mindspore in the semifinals should be ashamed. (just kidding, XD)
