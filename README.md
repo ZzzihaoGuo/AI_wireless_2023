@@ -1,6 +1,7 @@
 # AI_wireless_2023
 
-Competition Plan and Code based on transformer structure for the 2023 AI+ Wireless Competition on DataFountain.
+Competition Plan and Code based on transformer structure for the 2023 AI+ Wireless Competition on DataFountain. 
+https://www.datafountain.cn/competitions/645
 
 
 main.py and ModelDesign.py are the code for the semi-final part.
