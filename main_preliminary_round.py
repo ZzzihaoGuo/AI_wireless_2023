@@ -23,7 +23,7 @@ warmup_epochs = 200
 lr = 1e-4
 min_lr = 1e-4
 weight_decay = 0.01
-batch_size = 10
+batch_size = 512
 # 训练设备
 device = ("cuda" if torch.cuda.is_available() else "cpu")
 print(f"Using {device} device")
