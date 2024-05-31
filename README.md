@@ -1,9 +1,12 @@
 # AI_wireless_2023
 
-Competition Plan and Code based on transformer structure for the 2023 AI+ Wireless Competition on DataFountain. 
+## Background
+
+2023 National Artifical Intelligence Challenge(NAIC)
+
+Competition Plan and Code based on transformer structure for the  AI+ Wireless Channel on DataFountain. 
 
 https://www.datafountain.cn/competitions/645
-
 https://naic.pcl.ac.cn/
 
 ## Code introduction
